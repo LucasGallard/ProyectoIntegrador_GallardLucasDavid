@@ -7,19 +7,14 @@ div{
     text-align: center;
 }
 
-img{
-    width: 250px;
-    height: 291.5621px;
-}
-
 /*estilo de la foto de perfil*/
 @media (min-width: 576px){
     #fotodeperfil{
-        width: 200px;
-        height: 200px;
-
-        border-radius: 50%;
+        width: 15%;
+        border-radius: 100%;
         box-shadow: gray;
+        left: 3%;
+        top: 20px;
     }
 }
 
@@ -30,4 +25,8 @@ img{
     margin-top: 40%;
     margin-left: 10px;
     color: white;
+}
+
+#letra{
+    color:white
 }

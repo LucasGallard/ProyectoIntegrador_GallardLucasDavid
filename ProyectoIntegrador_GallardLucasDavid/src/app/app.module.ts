@@ -24,6 +24,7 @@ import { NgCircleProgressModule } from 'ng-circle-progress';
     AcercaDeComponent,
     ExperienciaComponent,
     EducacionComponent,
+    HysComponent,
   ],
   imports: [
     BrowserModule,

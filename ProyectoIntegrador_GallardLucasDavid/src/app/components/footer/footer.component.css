@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+
+.row{
+    background-color: rgb(70, 69, 69);
+    font-family: 'Rajdhani', sans-serif;
+}
+
+footer{
+    color: white;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}

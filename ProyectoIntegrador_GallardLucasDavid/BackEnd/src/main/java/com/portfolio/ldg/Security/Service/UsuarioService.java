@@ -6,8 +6,8 @@ package com.portfolio.ldg.Security.Service;
 
 import com.portfolio.ldg.Security.Entity.Usuario;
 import com.portfolio.ldg.Security.Repository.IUsuarioRepository;
-import jakarta.transaction.Transactional;
 import java.util.Optional;
+import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
